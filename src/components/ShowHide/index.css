@@ -1,0 +1,38 @@
+.container {
+  background: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  min-height: 300px;
+  background-color: white;
+  width: 80%;
+}
+.button-one {
+  background-color: yellow;
+  min-height: 100px;
+  width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-tow {
+  background-color: yellow;
+  min-height: 100px;
+  width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
